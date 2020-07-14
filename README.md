@@ -1,4 +1,4 @@
-# A custom neo4j version, contains apoc, mongdb, nlp and other features
+# A custom neo4j version, the image contains apoc, mongdb, nlp and other features
 
 # Usage    
 
